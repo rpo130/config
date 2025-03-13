@@ -31,10 +31,9 @@ set shiftwidth=0
 "when nagetive, use shiftwidth
 set softtabstop=-1
 
+"highlight cursor line
 set cursorline
 set showcmd
 "show line num and column num
 set ruler
 
-"set list
-"set lcs+=eol:$,space:·
